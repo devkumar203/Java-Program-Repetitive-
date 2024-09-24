@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array_AssignmentQuestions/Array_AssignmentQuestions.iml" filepath="$PROJECT_DIR$/Array_AssignmentQuestions/Array_AssignmentQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Quesitons/Class_Quesitons.iml" filepath="$PROJECT_DIR$/Class_Quesitons/Class_Quesitons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor_Examples/Constructor_Examples.iml" filepath="$PROJECT_DIR$/Constructor_Examples/Constructor_Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FULL_STACK_JAVA/FULL_STACK_JAVA.iml" filepath="$PROJECT_DIR$/FULL_STACK_JAVA/FULL_STACK_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryClasses/LibraryClasses.iml" filepath="$PROJECT_DIR$/LibraryClasses/LibraryClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Logix_Programming.iml" filepath="$PROJECT_DIR$/.idea/Logix_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Looping/Looping.iml" filepath="$PROJECT_DIR$/Looping/Looping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedForLoop/NestedForLoop.iml" filepath="$PROJECT_DIR$/NestedForLoop/NestedForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedForLoop_Assignment/NestedForLoop_Assignment.iml" filepath="$PROJECT_DIR$/NestedForLoop_Assignment/NestedForLoop_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PW_2Darray/PW_2Darray.iml" filepath="$PROJECT_DIR$/PW_2Darray/PW_2Darray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PW_Practice/PW_Practice.iml" filepath="$PROJECT_DIR$/PW_Practice/PW_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kitabi_program/kitabi_program.iml" filepath="$PROJECT_DIR$/kitabi_program/kitabi_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/looping_AssignmentQuestions/looping_AssignmentQuestions.iml" filepath="$PROJECT_DIR$/looping_AssignmentQuestions/looping_AssignmentQuestions.iml" />
+    </modules>
+  </component>
+</project>
